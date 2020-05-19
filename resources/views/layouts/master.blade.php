@@ -71,17 +71,6 @@
           <li class="header">{{__('text.mainnav')}}</li>
           <li class="treeview">
             <a>
-              <i class="fa fa-book"></i> <span>{{__('text.dashboard')}}</span>
-              <span class="pull-right-container">
-                <i class="fa fa-angle-left pull-right"></i>
-              </span>
-            </a>
-            <ul class="treeview-menu">
-              <li><a><i class="fa fa-circle-o"></i> {{__('text.dashboard')}}</a></li>
-            </ul>
-          </li>
-          <li class="treeview">
-            <a>
               <i class="fa fa-dashboard"></i> <span>{{__('text.user_skill')}}</span>
               <span class="pull-right-container">
                 <i class="fa fa-angle-left pull-right"></i>
