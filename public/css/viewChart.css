@@ -1,0 +1,43 @@
+*{
+	padding : 0px;
+	margin : 0px;
+	box-sizing : border-box;
+}
+
+.row{
+	margin: 0px;
+}
+
+.member, #chart-option{
+	margin-top: 20px;
+}
+.col-xs-10{
+	padding : 0px;
+}
+.col-xs-2{
+	padding : 0px 7px;
+}
+.member, #chart-option .option, #my-select{
+	padding: 0px;
+}
+.direct, .show-chart{
+	margin-top: 10px;
+}
+#btn-show-chart, .title{
+	margin-left: 15px;
+}
+.show-chart span#error{
+	margin-left: 15px;
+	font-style: italic;
+}
+.direct > label{
+	margin-left: 15px;
+}
+#chartdiv{
+	width: 95%;
+	margin: 20px auto;
+	height: 350px;
+}
+#error-date{
+	font-style: italic;
+}

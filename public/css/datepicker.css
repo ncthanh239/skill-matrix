@@ -1,0 +1,28 @@
+  #datepicker1{
+    background-color: #aed6f1;
+  }
+  label span{
+	color: red;
+  }
+  .list-skill .skill-items{
+  	list-style-type: none;
+
+  }
+  .skill-items .skill-value{
+  	display:inline-flex;
+  }
+  .skill-value{
+  	width:40px !important;
+  	height:20px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-right:40px;
+  }
+  .box-list{
+  	margin-top:30px;
+  }
+  .box-list h3{
+  	text-align:center;
+  }
+
+ 
